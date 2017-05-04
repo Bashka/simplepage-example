@@ -1,4 +1,4 @@
-Пример блога с использованием фреймворка [SimplePage][https://github.com/Bashka/simplepage].
+Пример блога с использованием фреймворка [SimplePage](https://github.com/Bashka/simplepage).
 
 # Требования
 
